@@ -1,4 +1,5 @@
 import * as React from 'react';
+import { environment } from '../../environment';
 
 export class MoviesComponent extends React.Component<any, any> {
 
