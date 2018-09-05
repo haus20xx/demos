@@ -23,6 +23,7 @@ class App extends React.Component {
         <BrowserRouter>
           <div>
             <AppNav />
+            THIS IS KENNYS PAGE now its updated
             <div id="main-content-container">
               <Switch>
                 <Route path="/first" component={FirstComponent} />
